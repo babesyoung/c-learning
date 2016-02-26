@@ -11,7 +11,7 @@ int main(void)
     float comission = 0, comission_of_competor = 0, price = 0;
     int amount = 0;
 
-    printf("enter the amount and price of trade:\n");
+    printf("enter the amount and price of trade: (xxx * xxx)\n");
     scanf("%d * %f", &amount, &price);
 
     float value = amount * price;
@@ -33,9 +33,9 @@ int main(void)
 
     /*竞争对手佣金*/
     if (amount < 2000) {
-        comission_of_competor = amount * .3 + 33;
+        comission_of_competor = amount * .03 + 33;
     } else {
-        comission_of_competor = amount * .2 + 33;
+        comission_of_competor = amount * .02 + 33;
     }
 
     printf("comission: $%.2f\n", comission);
