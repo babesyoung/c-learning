@@ -7,4 +7,5 @@ C Programming: A Modern Approach,2ed
 
 ### 2016-2-25 chapter3, chapter4
 
-### 2016-2-25 chapter5 half
+### 2016-2-26 chapter5
+
