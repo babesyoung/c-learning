@@ -9,3 +9,4 @@ C Programming: A Modern Approach,2ed
 
 ### 2016-2-26 chapter5
 
+### 2016-2-29 chapter6
