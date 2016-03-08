@@ -15,4 +15,6 @@ C Programming: A Modern Approach,2ed
 
 ### 2016-3-3 chapter7 5~10,12~14 11题不会？？？
 
-### 2013-3-7 chapter8 1-3
+### 2016-3-7 chapter8 1-3
+
+### 2016-3-8 chapter8 4-7
