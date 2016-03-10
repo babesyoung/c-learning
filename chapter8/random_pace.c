@@ -30,7 +30,7 @@ int main(void)
 
     srand((unsigned) time(NULL));
 
-    //指示下一步的移动方向 0 ⬆️，1 ⬇️，2⬅️，3 ⬇️。
+    //指示下一步的移动方向 0 ⬆️，1 ⬇️，2⬅️，3 ➡️。
     for (;;) {
         if (((x_now == 0 || array[x_now - 1][y_now] != '.') &&
             (x_now == 9 || array[x_now + 1][y_now] != '.') &&
