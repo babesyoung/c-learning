@@ -19,4 +19,6 @@ C Programming: A Modern Approach,2ed
 
 ### 2016-3-8 chapter8 4-7
 
-### 2016-3-14 cgapter8 8-17
+### 2016-3-14 chapter8 8-17
+
+### 2016-3-16 chapter9
