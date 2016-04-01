@@ -22,3 +22,10 @@ C Programming: A Modern Approach,2ed
 ### 2016-3-14 chapter8 8-17
 
 ### 2016-3-16 chapter9
+
+#### 2016-3-21 chapter10
+
+#### 2016-3-25 chapter10
+
+#### 2016-3-31 chapter11
+
